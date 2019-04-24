@@ -1,17 +1,17 @@
 {
   "settings": {
-    "theme": "arc", // UI theme, possible values: fb (flat blue), wh (white), hc (high contrast) and other
-    "autoSave": true, // auto-save open files
+    "theme": "arc",
+    "autoSave": true,
     
-    "canOpen": true, // show Open button
-    "canOpenDemo": false, // show Demo button
-    "canOpenSettings": false, // show Settings button
-    "canCreate": true, // show Create button
-    "canImportXml": false, // show Import XML button
+    "canOpen": true,
+    "canOpenDemo": false,
+    "canOpenSettings": false,
+    "canCreate": true,
+    "canImportXml": false,
 
-    "dropbox": false, // enable Dropbox
-    "gdrive": false, // enable Google Drive
-    "onedrive": false, // enable OneDrive
-    "webdav": true, // enable WebDAV
+    "dropbox": false,
+    "gdrive": false,
+    "onedrive": false,
+    "webdav": true,
   },
 }
