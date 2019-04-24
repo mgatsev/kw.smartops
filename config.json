@@ -12,6 +12,6 @@
     "dropbox": false,
     "gdrive": false,
     "onedrive": false,
-    "webdav": true,
+    "webdav": true
   }
 }
